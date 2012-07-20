@@ -38,6 +38,11 @@ You can use, reproduce and do whatever you want with syte but I would like you t
 [![danielcampo](https://github.com/rigoneri/syte/blob/master/readme-imgs/danielcampo.png?raw=true)](http://danielcampo.com)
 [![bhashkar](https://github.com/rigoneri/syte/blob/master/readme-imgs/bhashkar.png?raw=true)](http://bhashkar.me)
 [![lukelee](https://github.com/rigoneri/syte/blob/master/readme-imgs/lukelee.png?raw=true)](http://lukelee-syte.herokuapp.com)
+[![dannycochran](https://github.com/rigoneri/syte/blob/master/readme-imgs/dannycochran.png?raw=true)](http://dcochran.com)
+[![srir](https://github.com/rigoneri/syte/blob/master/readme-imgs/srir.png?raw=true)](http://sraghavan.net)
+[![tachang](https://github.com/rigoneri/syte/blob/master/readme-imgs/jeff-tchang.png?raw=true)](http://www.returnbooleantrue.com)
+[![junseki](https://github.com/rigoneri/syte/blob/master/readme-imgs/junseki.png?raw=true)](http://junseki.com)
+[![allydimg](https://github.com/rigoneri/syte/blob/master/readme-imgs/allydimg.png?raw=true)](http://allyd.herokuapp.com)
 
 
 ## Social Integrations
@@ -73,6 +78,14 @@ Syte has dribbble integration, which means that when someone clicks on a link th
 Syte has instagram integration, which means that you can show your instagram pictures within your site like a profile. Currently the only way to display your pictures is through their iPhone and Android apps, this is not even possible through their website.
 
 ![Syte Instagram](https://github.com/rigoneri/syte/blob/master/readme-imgs/f-5.png?raw=true)
+
+
+### Last.fm
+
+Syte has Last.fm integration, which means that when someone clicks on a link that points to a user's Last.fm profile the profile information will be loaded directly in the site along with a listing of the most recently scrobbled tracks.
+
+![Syte Lastfm](https://github.com/rigoneri/syte/blob/master/readme-imgs/f-6.png?raw=true)
+
 
 ## Responsive UI
 
@@ -216,6 +229,22 @@ Once you have those two items from Instagram you have to enter them in your **sy
 After you validated that your instagram integration worked go back to Instragam page and change the ***OAuth redirect_uri*** field to have your domain info (this is not required), then make sure you turn off the instagram oauth interation setting so you don't make that available to everyone in the internet. You can do that by setting `INSTAGRAM_OAUTH_ENABLED` to False.
 
 If you want to turn off instagram integration just set `INSTAGRAM_INTEGRATION_ENABLED` to False.
+
+
+
+
+### Setting up Last.fm integration
+
+The Last.fm integration does not make any authenticated calls so setting it up only requires that you register an application with Lastfm and get an API key.
+
+To get an API key simply follow the [Getting started instructions](http://www.last.fm/api).  You can then view your API Key from [your api account page](http://www.last.fm/api/account).
+
+Once you have your API Key from Lastfm you have to enter it in your **syte_settings.py** located in `syte > syte_settings.py`. Once you open that file enter the following:
+
+* ***API_KEY*** under `LASTFM_API_KEY`
+* ***USERNAME*** under `LASTFM_USERNAME`
+
+If you want to turn off Last.fm integration just set `LASTFM_INTEGRATION_ENABLED` to False.
 
 
 
