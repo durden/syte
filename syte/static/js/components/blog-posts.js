@@ -46,7 +46,6 @@ function fetchBlogPosts(tag) {
 
             });
 
-            setupLinks();
             adjustBlogHeaders();
             prettyPrint();
             setTimeout(setupBlogHeaderScroll, 1000);
