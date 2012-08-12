@@ -33,6 +33,7 @@ TEMPLATE_LOADERS = (
 )
 
 MIDDLEWARE_CLASSES = (
+    'django.middleware.gzip.GZipMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
@@ -63,4 +64,7 @@ INSTALLED_APPS = (
     'gunicorn',
 )
 
-from syte_settings import *
+try:
+    from personal_syte_settings import *
+except ImportError:
+    from syte_settings import *
