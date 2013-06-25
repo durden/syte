@@ -16,7 +16,7 @@ def twitter(request, username):
         authorize_url=settings.TWITTER_API_URL + 'oauth/authorize',
         header_auth=True)
 
-    url = '{0}1/statuses/user_timeline.json?include_rts=false' \
+    url = '{0}1.1/statuses/user_timeline.json?include_rts=false' \
         '&exclude_replies=true&count=50&screen_name={1}'.format(
             settings.TWITTER_API_URL, username)
 
