@@ -48,6 +48,7 @@ def compress_js():
         'libs/require.js',
         'libs/handlebars.js',
         'libs/moment.min.js',
+        'libs/bootstrap-transition.js',
         'libs/bootstrap-modal.js',
         'libs/spin.js',
         'libs/prettify.js',
@@ -93,6 +94,9 @@ def compress_js():
 
     if settings.STACKOVERFLOW_INTEGRATION_ENABLED:
         js_files.append('components/stackoverflow.js')
+
+    if settings.FLICKR_INTEGRATION_ENABLED:
+        js_files.append('components/flickr.js')
 
     combined = ''
     for js in js_files:

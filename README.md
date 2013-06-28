@@ -1,6 +1,6 @@
 # Syte
 
-Syte is a really simple but powerful packaged personal site that has social integrations like Twitter, GitHub, Dribbble, Instagram, Foursquare, Tumblr, Wordpress, Last.fm, SoundCloud, Bitbucket, StackOverflow and Steam. You can see it in action on [my personal site](http://rigoneri.com).
+Syte is a really simple but powerful packaged personal site that has social integrations like Twitter, GitHub, Dribbble, Instagram, Foursquare, Tumblr, Wordpress, Last.fm, SoundCloud, Bitbucket, StackOverflow, Flickr and Steam. You can see it in action on [my personal site](http://rigoneri.com).
 
 ### There is only one rule/suggestion
 
@@ -19,32 +19,22 @@ You can use, reproduce and do whatever you want with Syte but I would like you t
 [![evilfaeton](https://github.com/rigoneri/syte/blob/master/readme-imgs/evilfaeton.png?raw=true)](http://evilfaeton.com)
 [![eveiga](https://github.com/rigoneri/syte/blob/master/readme-imgs/eveiga.png?raw=true)](http://eveiga.herokuapp.com)
 [![mikaelo](https://github.com/rigoneri/syte/blob/master/readme-imgs/mikaelo.png?raw=true)](http://mikaelo.herokuapp.com)
-[![mikehodgson](https://github.com/rigoneri/syte/blob/master/readme-imgs/mikehodgson.png?raw=true)](http://mikehodgson.com)
 [![charliekey](https://github.com/rigoneri/syte/blob/master/readme-imgs/charliekey.png?raw=true)](http://charliekey.me)
-[![andrewthebold](https://github.com/rigoneri/syte/blob/master/readme-imgs/andrewthebold.png?raw=true)](http://atb.herokuapp.com/)
-[![BobuSumisu](https://github.com/rigoneri/syte/blob/master/readme-imgs/oyvind-ingvaldsen.png?raw=true)](http://oyvind-ingvaldsen.net)
 [![nurihodges](https://github.com/rigoneri/syte/blob/master/readme-imgs/nurihodges.png?raw=true)](http://nurihodges.herokuapp.com)
-[![markwatson](https://github.com/rigoneri/syte/blob/master/readme-imgs/mrkrwtsn.png?raw=true)](http://markwatson.us)
 [![manavo](https://github.com/rigoneri/syte/blob/master/readme-imgs/manavo.png?raw=true)](http://manavo.com)
 [![rshepherd](https://github.com/rigoneri/syte/blob/master/readme-imgs/rshepherd.png?raw=true)](http://rshepherd.org)
-[![wavendano](https://github.com/rigoneri/syte/blob/master/readme-imgs/wavendano.png?raw=true)](http://willieavendano.me)
 [![yurytsukerman](https://github.com/rigoneri/syte/blob/master/readme-imgs/yurytsukerman.png?raw=true)](http://yurytsukerman.com)
 [![javisoto](https://github.com/rigoneri/syte/blob/master/readme-imgs/javisoto.png?raw=true)](http://www.javisoto.es)
 [![joneisen](https://github.com/rigoneri/syte/blob/master/readme-imgs/joneisen.png?raw=true)](http://www.joneisen.me)
-[![natetarrh](https://github.com/rigoneri/syte/blob/master/readme-imgs/natetarrh.png?raw=true)](http://www.natetarrh.com)
-[![arnonate](https://github.com/rigoneri/syte/blob/master/readme-imgs/arnonate.png?raw=true)](http://natearnold.me)
 [![mobileiteration](https://github.com/rigoneri/syte/blob/master/readme-imgs/mobileiteration.png?raw=true)](http://mobileiteration.com)
-[![owen](https://github.com/rigoneri/syte/blob/master/readme-imgs/owen.png?raw=true)](http://owened.co.nz)
 [![danielcampo](https://github.com/rigoneri/syte/blob/master/readme-imgs/danielcampo.png?raw=true)](http://danielcampo.com)
 [![bhashkar](https://github.com/rigoneri/syte/blob/master/readme-imgs/bhashkar.png?raw=true)](http://bhashkar.me)
 [![lukelee](https://github.com/rigoneri/syte/blob/master/readme-imgs/lukelee.png?raw=true)](http://lukelee-syte.herokuapp.com)
 [![dannycochran](https://github.com/rigoneri/syte/blob/master/readme-imgs/dannycochran.png?raw=true)](http://dcochran.com)
 [![srir](https://github.com/rigoneri/syte/blob/master/readme-imgs/srir.png?raw=true)](http://sraghavan.net)
-[![tachang](https://github.com/rigoneri/syte/blob/master/readme-imgs/jeff-tchang.png?raw=true)](http://www.returnbooleantrue.com)
 [![junseki](https://github.com/rigoneri/syte/blob/master/readme-imgs/junseki.png?raw=true)](http://junseki.com)
 [![allydimg](https://github.com/rigoneri/syte/blob/master/readme-imgs/allydimg.png?raw=true)](http://allyd.herokuapp.com)
 [![hussfelt](https://github.com/rigoneri/syte/blob/master/readme-imgs/hussfelt.png?raw=true)](http://hussfelt.net)
-[![amastys](https://github.com/rigoneri/syte/blob/master/readme-imgs/amastys.png?raw=true)](http://amastys.ru)
 [![damilare](https://github.com/rigoneri/syte/blob/master/readme-imgs/damilare.png?raw=true)](http://dami.me)
 [![eventh](https://github.com/rigoneri/syte/blob/master/readme-imgs/eventh.png?raw=true)](http://eventh.herokuapp.com)
 [![clayferris](https://github.com/rigoneri/syte/blob/master/readme-imgs/clayferris.png?raw=true)](http://claytonferris.com)
@@ -63,9 +53,7 @@ You can use, reproduce and do whatever you want with Syte but I would like you t
 [![vincentying](https://github.com/rigoneri/syte/blob/master/readme-imgs/vincentying.png?raw=true)](http://ying82.herokuapp.com)
 [![danielmayo](https://github.com/rigoneri/syte/blob/master/readme-imgs/danmayo.png?raw=true)](http://www.danielmayo.co.uk/)
 [![krisrang](https://github.com/rigoneri/syte/blob/master/readme-imgs/krisrang.png?raw=true)](http://www.kristjanrang.eu)
-[![tbergeron](https://github.com/rigoneri/syte/blob/master/readme-imgs/tbergeron.png?raw=true)](http://tbergeron.com)
 [![mihan007](https://github.com/rigoneri/syte/blob/master/readme-imgs/mihan007.png?raw=true)](http://mihan007.com)
-[![pbouda](https://github.com/rigoneri/syte/blob/master/readme-imgs/pbouda.png?raw=true)](http://www.peterbouda.eu)
 [![garethwestern](https://github.com/rigoneri/syte/blob/master/readme-imgs/garethwestern.png?raw=true)](http://garethwestern.com)
 [![birarda](https://github.com/rigoneri/syte/blob/master/readme-imgs/birarda.png?raw=true)](http://www.birarda.com)
 [![mraxilus](https://github.com/rigoneri/syte/blob/master/readme-imgs/mraxilus.png?raw=true)](http://mraxil.us)
@@ -81,8 +69,8 @@ You can use, reproduce and do whatever you want with Syte but I would like you t
 [![hpanahi](https://github.com/rigoneri/syte/blob/master/readme-imgs/hpanahi.png?raw=true)](http://hes.am)
 [![kevdashdev](https://github.com/rigoneri/syte/blob/master/readme-imgs/kevdashdev.png?raw=true)](http://bykev.in/)
 [![avijeets](https://github.com/rigoneri/syte/blob/master/readme-imgs/avijeets.png?raw=tru)](http://avijeet.me/)
-
-
+[![avijeets](https://github.com/rigoneri/syte/blob/master/readme-imgs/devgeek.png?raw=tru)](http://devgeek.me/)
+[![christianrahn](https://github.com/rigoneri/syte/blob/master/readme-imgs/christianrahn.png?raw=tru)](http://christianrahn.us/)
 
 ## Social Integrations
 
@@ -113,7 +101,7 @@ Syte has Dribbble integration, which means that when someone clicks on a link th
 
 ### Instagram
 
-Syte has Instagram integration, which means that you can show your Instagram pictures within your site like a profile. Currently the only way to display your pictures is through their iPhone and Android apps, this is not even possible through their website.
+Syte has Instagram integration, which means that you can show your Instagram pictures within your site like a profile.
 
 ![Syte Instagram](https://github.com/rigoneri/syte/blob/master/readme-imgs/f-5.png?raw=true)
 
@@ -162,6 +150,12 @@ Syte has Steam integration, which means that you can show your Steam Community p
 Syte has StackOverflow integration, which means that you can show your StackOverflow profile within your site.
 
 ![Syte Steam](https://github.com/rigoneri/syte/blob/master/readme-imgs/f-12.png?raw=true)
+
+### Flickr
+
+Syte has Flickr integration, which means that you can show your Flickr photos within your site.
+
+![Syte Flickr](https://github.com/rigoneri/syte/blob/master/readme-imgs/f-13.png?raw=true)
 
 ## Responsive UI
 
@@ -216,8 +210,9 @@ Then make some text and link changes. Open **base.html** located in `syte > temp
 8. Inside the `nav` tag change the **dribbble-link** href to point to your Dribbble profile, if you don't have Dribbble just remove that whole line.
 9. Inside the `nav` tag change the **steam-link** href to point to your Steam community profile, if you don't have Steam just remove that whole line.
 10. Inside the `nav` tag change the **stackoverflow-link** href to point to your StackOverflow profile, if you don't have StackOverflow just remove that whole line.
-11. Inside the `nav` tag change the **contact-link** href to point to your email address.
-12. Under `class="mobile-nav"` div change the **h3** link text to have your domain name or your name.
+11. Inside the `nav` tag change the **flickr-link** href to point to your Flickr profile, if you don't have Flickr just remove that whole line.
+12. Inside the `nav` tag change the **contact-link** href to point to your email address.
+13. Under `class="mobile-nav"` div change the **h3** link text to have your domain name or your name.
 
 Then pick your **adjacent color** and change the `@adjacent-color` hex value in variables.less located in `syte > static > less > variables.less` Make sure the color you chose is not used by anyone on the list up above. If you want blue pick a different shade of blue, there are hundreds out there...
 
@@ -408,6 +403,15 @@ If you want to turn off Steam integration just set `STEAM_INTEGRATION_ENABLED` t
 The StackOverflow integration does not make any authenticated calls nor does it require a registered API key.
 
 If you want to turn off StackOverflow integration just set `STACKOVERFLOW_INTEGRATION_ENABLED` to False.
+
+### Setting up Flickr integration
+
+The Flickr integration does not make any authenticated calls nor does it require a registered API key.
+
+To make it work, you'll need to find your Flickr ID. This is different to your username, and you can do the lookup here: <http://idgettr.com/>
+
+If you want to turn off Flickr integration just set `FLICKR_INTEGRATION_ENABLED` to False.
+
 
 
 ## Running & Deployment Instructions

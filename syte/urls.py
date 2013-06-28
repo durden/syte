@@ -19,7 +19,7 @@ urlpatterns = patterns('',
 #Twitter Integration
 if settings.TWITTER_INTEGRATION_ENABLED:
     urlpatterns += patterns('',
-        url(r'^twitter/(?P<username>\w+)/?$', 'syte.views.twitter.twitter'),
+        url(r'^twitter/(?P<username>\w+)/?$', 'syte.views.twitter_view.twitter_view'),
     )
 
 #Github Integration
@@ -91,6 +91,13 @@ if settings.STACKOVERFLOW_INTEGRATION_ENABLED:
     urlpatterns += patterns('',
         url(r'^stackoverflow/(?P<userid>[\-\w]+)/?$', 'syte.views.stackoverflow.stackoverflow'),
     )
+
+#Sitemap
+if settings.SITEMAP_ENABLED:
+    urlpatterns += patterns('',
+        (r'^sitemap\.xml$', direct_to_template,
+            {'template': 'sitemap.xml', 'mimetype': 'application/xml'})
+        )
 
 #Statics: Hacky for now... fix this later...
 urlpatterns += patterns('',

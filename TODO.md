@@ -17,7 +17,7 @@ List of services to add integration for:
     - LinkedIn
     - Youtube
     - Netflix
-    - Flickr
+    - Flickr [DONE]
     - Picasa
     - Rdio
     - Spotify
@@ -27,4 +27,6 @@ List of services to add integration for:
     - Quora
     - trakt
     - Google+
+    - Posterous Spaces
+    - viewbook.com
 
